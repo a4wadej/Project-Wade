@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Oswald|Permanent+Marker');
 
 html {
-  background-color: color: black;
-  background-size: cover;
+  background: black;
   text-align: center;
   font-family: "Oswald"
 }
