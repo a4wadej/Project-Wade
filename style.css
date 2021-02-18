@@ -31,9 +31,11 @@ header h3 {
   margin: auto;
 color: red;
 }
+
 img {
 width:300px;
 }
+
 .img-round {
   border-radius: 50%;
 }
