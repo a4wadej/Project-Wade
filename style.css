@@ -31,6 +31,11 @@ header h3 {
   color: white;
 }
 
+.wrapper{
+  width: 300;
+  margin: auto;
+}
+
 .round {
   border-radius: 50%;
 }
@@ -38,6 +43,16 @@ header h3 {
 main {
   color: white;
 }
+
+a {
+  font-family: "shadows into light", Arial, sans-serif;
+  font-size: 40px;
+}
+
+a:link    { color: #fcc33f; }
+a:visited { color: red; }
+a:hover   { color: #fc3fdd; }
+a:active  { color: #b8ff5c;  }
 
 main h2 {
   color:#00faa2;
