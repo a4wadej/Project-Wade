@@ -6,6 +6,15 @@ html {
   text-align: center;
   font-family: "Oswald"
 }
+
+div::before {
+  content: before;
+}
+
+div::after {
+  content: after;
+}
+
 header {
   background-color: black;  
 }
@@ -22,7 +31,7 @@ header h3 {
   color: white;
 }
 
-.circlepic {
+.round {
   border-radius: 50%;
 }
 
@@ -46,6 +55,8 @@ main ul {
   font-size: 30px;
 }
 
+
+
 ol {
   color:  #0093bf;
   font-size: 30px;
@@ -64,22 +75,6 @@ ol {
   box-sizing: border-box;
 }
 
-.button {
-  display: inline-block;
-  font-family: arial, sans-serif;
-  font-size: 16px;
-  text-align: center;
-  text-decoration: none;
-  margin: 10px;
-  padding: 6px 12px;
-  border-radius: 6px;
-}
-
-.buttonstyle {
-  color: #333;
-  background-color: #fff;
-  border: 1px solid #ccc;
-}
 
 footer {
   color: white;
