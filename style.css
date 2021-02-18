@@ -29,6 +29,7 @@ header h3 {
 .wrapper{
   width: 300;
   margin: auto;
+color: red;
 }
 
 .round {
@@ -65,15 +66,13 @@ main ul {
   font-size: 30px;
 }
 
-
-
 ol {
   color:  #0093bf;
   font-size: 30px;
 }
 
 .box {
-  text-align: left !important;
+  text-align: left;
   width: 400px;
   background-color:#dbdbd7;
   padding: 20px;
