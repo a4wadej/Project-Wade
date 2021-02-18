@@ -73,6 +73,7 @@ ol {
 }
 
 .box {
+  text-align: left !important;
   width: 400px;
   background-color:#dbdbd7;
   padding: 20px;
