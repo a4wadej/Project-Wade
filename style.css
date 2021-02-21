@@ -23,7 +23,7 @@ header h1 {
 header h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
-  color: #c7d4d6;
+  color: #a31b00;
 }
 
 .wrapper {
@@ -49,7 +49,7 @@ a {
   font-size: 40px;
 }
 
-a:link    { color: #63db18; }
+a:link    { color: #a31b00; }
 a:visited { color: #fc5f6f; }
 a:hover   { color: #fd6dec; }
 a:active  { color: #adfaff; }
