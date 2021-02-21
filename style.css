@@ -17,13 +17,13 @@ div::after {
 header h1 {
   font-size: 125px;
   font-family: "permanent marker";
-  color: #00faa2;
+  color: ##6CF9DD;
 }
 
 header h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 33px;
-  color: white;
+  font-size: 50px;
+  color: #D6FB18;
 }
 
 .wrapper {
@@ -41,7 +41,7 @@ width:300px;
 }
 
 main {
-  color: white;
+  color: #FCFCFC;
 }
 
 a {
@@ -49,13 +49,13 @@ a {
   font-size: 40px;
 }
 
-a:link    { color: #fcc33f; }
-a:visited { color: red; }
-a:hover   { color: #fc3fdd; }
-a:active  { color: #b8ff5c;  }
+a:link    { color: ##D6FB18; }
+a:visited { color: #FC5F6F; }
+a:hover   { color: ##FD6DEC; }
+a:active  { color: ##ADFAFF;  }
 
 main h2 {
-  color:#00faa2;
+  color:#6CF9DD;
   font-size: 50px;
 }
 main p {
@@ -66,21 +66,21 @@ main h4 {
 }
 
 main ul {
-  color: #0093bf;
+  color: ##0D0D0D;
   font-size: 30px;
 }
 
 ol {
-  color:  #0093bf;
+  color:  ##0D0D0D;
   font-size: 30px;
 }
 
 .box {
   text-align: left;
   width: 400px;
-  background-color:#dbdbd7;
+  background-color:#a1a1a1;
   padding: 20px;
-  border: 5px solid #14abfc;
+  border: 5px solid ##0D0D0D;
   margin: 15px auto;
   
 }
@@ -92,4 +92,5 @@ ol {
 
 footer {
   color: white;
+  font-size: 30px;
 }
