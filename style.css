@@ -17,13 +17,13 @@ div::after {
 header h1 {
   font-size: 125px;
   font-family: "permanent marker";
-  color: #d6fff7;
+  color: #0a0a0a;
 }
 
 header h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
-  color: #fffdba;
+  color: #c7d4d6;
 }
 
 .wrapper {
@@ -41,7 +41,7 @@ width:300px;
 }
 
 main {
-  color: #ffffff;
+  color: #0a0a0a;
 }
 
 a {
@@ -62,7 +62,7 @@ main p {
   font-size: 25px;
 }
 main h4 {
-  color: #ffffff;
+  color: #c7d4d6;
   font-size: 20px;
 }
 
@@ -92,6 +92,6 @@ ol {
 
 
 footer {
-  color: #fcfcfc;
+  color: #c7d4d6;
   font-size: 30px;
 }
