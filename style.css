@@ -17,19 +17,19 @@ div::after {
 header h1 {
   font-size: 125px;
   font-family: "permanent marker";
-  color: #6cf9dd;
+  color: ##d6fff7;
 }
 
 header h3 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
-  color: #d6fb18;
+  color: #fffdba;
 }
 
 .wrapper {
   width: 300;
   margin: auto;
-color: red;
+color: #ffbcb8;
 }
 
 img {
@@ -41,7 +41,7 @@ width:300px;
 }
 
 main {
-  color: #fcfcfc;
+  color: ##ffffff;
 }
 
 a {
@@ -62,16 +62,17 @@ main p {
   font-size: 25px;
 }
 main h4 {
+  color: #ffffff;
   font-size: 20px;
 }
 
 main ul {
-  color: #0d0d0d;
+  color: #40b6ff;
   font-size: 30px;
 }
 
 ol {
-  color:  #0d0d0d;
+  color:  #40b6ff;
   font-size: 30px;
 }
 
@@ -80,7 +81,7 @@ ol {
   width: 400px;
   background-color:#a1a1a1;
   padding: 20px;
-  border: 5px solid #0d0d0d;
+  border: 5px solid #40b6ff;
   margin: 15px auto;
   
 }
@@ -91,6 +92,6 @@ ol {
 
 
 footer {
-  color: fcfcfc;
+  color: #fcfcfc;
   font-size: 30px;
 }
