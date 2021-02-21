@@ -67,12 +67,12 @@ main h4 {
 }
 
 main ul {
-  color: #a31b00;
+  color: #7da3a8;
   font-size: 30px;
 }
 
 ol {
-  color: #a31b00;
+  color: #7da3a8;
   font-size: 30px;
 }
 
@@ -81,7 +81,7 @@ ol {
   width: 400px;
   background-color: #242424;
   padding: 20px;
-  border: 10px solid #a31b00;
+  border: 5px solid #7da3a8;
   margin: 15px auto;
   
 }
