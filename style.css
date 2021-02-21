@@ -17,7 +17,7 @@ div::after {
 header h1 {
   font-size: 125px;
   font-family: "permanent marker";
-  color: ##d6fff7;
+  color: #d6fff7;
 }
 
 header h3 {
@@ -41,7 +41,7 @@ width:300px;
 }
 
 main {
-  color: ##ffffff;
+  color: #ffffff;
 }
 
 a {
@@ -67,21 +67,21 @@ main h4 {
 }
 
 main ul {
-  color: #40b6ff;
+  color: #c7d4d6;
   font-size: 30px;
 }
 
 ol {
-  color:  #40b6ff;
+  color:  #c7d4d6;
   font-size: 30px;
 }
 
 .box {
   text-align: left;
   width: 400px;
-  background-color:#a1a1a1;
+  background-color: #242424;
   padding: 20px;
-  border: 5px solid #40b6ff;
+  border: 5px solid #c7d4d6;
   margin: 15px auto;
   
 }
