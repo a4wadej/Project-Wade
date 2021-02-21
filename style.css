@@ -72,7 +72,7 @@ main ul {
 }
 
 ol {
-  color:  #a31b00;
+  color: #a31b00;
   font-size: 30px;
 }
 
@@ -81,7 +81,7 @@ ol {
   width: 400px;
   background-color: #242424;
   padding: 20px;
-  border: 5px solid #a31b00;
+  border: 10px solid #a31b00;
   margin: 15px auto;
   
 }
